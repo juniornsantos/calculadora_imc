@@ -1,6 +1,11 @@
 # Calculadora de Índice de Massa Corporal (IMC)
 
+
+
 Esta é uma calculadora simples de Índice de Massa Corporal (IMC) que permite determinar o seu IMC com base no seu peso e altura. O IMC é uma medida amplamente utilizada para avaliar se uma pessoa está com um peso saudável em relação à sua altura.
+
+<img src="./assets/img002.jpeg?raw=true" width="200" />
+<img src="./assets/img001.jpeg?raw=true" width="200" />
 
 ## Como usar
 
